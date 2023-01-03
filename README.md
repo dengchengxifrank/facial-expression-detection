@@ -4,9 +4,9 @@ this is based on Jaffe.You can get the Jaffe database from https://zenodo.org/re
 # "rethinking"
 To overcome overfitting in this database,we use datahance.py to enhance the data and the final test accuracy is over 80%.
 
-#Train and test
+# Train and test
 
-Run train.py which is based on vgg16
+Run python train.py which is based on vgg16.
 
 
 
