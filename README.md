@@ -6,7 +6,17 @@ To overcome overfitting in this database,we use datahance.py to enhance the data
 
 # Train and test
 
-Run python train.py and the model is based on vgg16.
+Run python train.py and the model is based on VGG16.
+
+We also try Resnet50,and freeze different layers in Resnet50 to see which part can be transferred from Imagenet to Jaffe.SEE DETAILS IN src.
+
+# Some Find
+
+In this task,batchsize is a sensitive hyperparameter which influences a lot.
+
+# TO DO
+Build a model which is transformer-based.
+
 
 
 
