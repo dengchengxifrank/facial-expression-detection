@@ -6,7 +6,7 @@ To overcome overfitting in this database,we use datahance.py to enhance the data
 
 # Train and test
 
-Run python train.py which is based on vgg16.
+Run python train.py and the model is based on vgg16.
 
 
 
